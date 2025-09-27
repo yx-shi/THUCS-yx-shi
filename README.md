@@ -1,5 +1,5 @@
-## Hi I'm Yx-shi 👋
-I'm now a student in Tsinghua University, majoring in Computer Science and Technology
+## Repository of THUCS
+contains most of notes and codes (which are allowed to be uploaded).
 
 <!--
 **yx-shi/yx-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
